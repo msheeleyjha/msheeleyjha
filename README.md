@@ -23,12 +23,17 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+### :zap: Github Stats
+<img alt="msheeleyjha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msheeleyjha&show_icons=true&hide_border=true" />
+
+
+---
+
+### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</details>
+
   
-[vscode]: https://code.visualsudio.com
+[vscode]: https://code.visualstudio.com
 
