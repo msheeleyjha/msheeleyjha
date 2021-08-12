@@ -32,6 +32,9 @@
 
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/msheeleyjha/msheeleyjha/pull/1) in [msheeleyjha/msheeleyjha](https://github.com/msheeleyjha/msheeleyjha)
+2. 💪 Opened PR [#1](https://github.com/msheeleyjha/msheeleyjha/pull/1) in [msheeleyjha/msheeleyjha](https://github.com/msheeleyjha/msheeleyjha)
+<!--END_SECTION:activity-->
 
   
 [vscode]: https://code.visualstudio.com
