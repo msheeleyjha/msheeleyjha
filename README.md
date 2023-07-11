@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Australian and a Solutions Architect
 - 🔭 I'm currently working on EL vNext and Secure Port
 - 🌱 I'm currently learning everything 🤣
-- 🥅 2021 Goals: Terraform everything...
+- 🥅 2023 Goals: Survive
 
 <br />
 
